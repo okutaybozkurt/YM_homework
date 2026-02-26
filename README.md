@@ -1,4 +1,5 @@
 ## Proje Notları (Öğrenci deneyim ve öğrendikleri)
+Bu proje, Git üzerinde takım çalışması ve çakışma (conflict) yönetimi simülasyonudur.
 
 ### Öğrenci B - Ayberk ERKAN (Modül Geliştirici - Çakışma Yönetimi)
 İlk başta arkadaşım main.py dosyasının 2. satırına weather.py dosyasını 
@@ -10,3 +11,5 @@ kodun içindeki '<<<<', '====', '>>>>' işaretlerini görünce Git'in aslında
 bana bir yol haritası sunduğunu fark ettim.
 Çakışan satırların manuel olarak temizleyip her iki modülü birleştirmek,
 bir ekip projesinde koordinastyonun ne kadar kritik olduğunu anlamamı sağladı.
+
+***Öğrenci A -Orhan Kutay BOZKURT (okutaybozkurt):** Yeni kodu çekerken, farklı modüllerin tek bir ana dosyada sorunsuzca birleştiğini görmek takım çalışmasının gücünü hissettirdi.
